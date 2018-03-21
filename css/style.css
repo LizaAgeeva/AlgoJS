@@ -17,9 +17,9 @@
     color: black;
     text-align: center;
     margin: 80px;
-    width: 45%;
+    width: 650px;
     float: left;
-    height: 45vh;
+    height: 300px;
     background: #00CC99;
     margin-top: 4rem;
 }
@@ -29,6 +29,9 @@
 .colorSorted{
 	background:#FFCC85
 }
+.colorSpeed{
+	background:#95A1ED
+}
 .sorted {
      padding-top: 80px; 
     /* margin: 25px;*/
@@ -36,9 +39,9 @@
     font-size: 36px;
     color: black;
     text-align: center;
-    width: 45%;
+    width: 650px;
     float: left;
-    height: 40vh;
+    height: 300px;
     background: #FFCC3B;
     margin-left: -10rem;
     margin-top: 7rem;
@@ -49,6 +52,16 @@ input {
     font-size: 24px;
     color: black;
 }
+
+.canvas {
+	margin-top: -150px;
+	margin-left: 300px;
+	float: left;
+	background-color: #5965B1;
+    width: 660px;
+    height: 350px;
+}
+
 
 .btnStyle {
 	display: inline-block;
@@ -91,3 +104,7 @@ input {
         border-color: #D88827;
        
     }
+	
+
+
+	
